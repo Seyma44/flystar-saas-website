@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+https://github.com/Seyma44/flystar-saas-website/assets/3766249/cba5ff51-056b-4c24-acc1-b7bf387388b2
+
 First, run the development server:
 
 ```bash
