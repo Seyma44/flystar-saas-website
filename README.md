@@ -13,9 +13,10 @@ Flystar SaaS Website is a comprehensive solution designed to deliver a seamless 
 
 https://github.com/Seyma44/flystar-saas-website/assets/3766249/cba5ff51-056b-4c24-acc1-b7bf387388b2
 
-<p  align="center">
+<p  align="left">
 <a  href="https://www.buymeacoffee.com/seyma">  <img  align="center"  src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"  height="50"  width="210"  alt="seyma"  /></a><img src="https://github.com/Seyma44/Seyma44/assets/3766249/64d2e76f-d677-40bc-a519-096f0179ad17" width="58px" alt="connect">Support Me</p> 
 
+<br/>
 
 ## Getting Started
 
@@ -43,10 +44,6 @@ pnpm dev
 - `lint`: Lint the codebase using ESLint.
 
 ### Dependencies
-[Dependencies listed in the previous response...]
 
 Explore the Flystar SaaS Website repository to discover the innovative features and functionalities driving Flystar's online presence and SaaS offerings.
-
-<p  align="center">
-<a  href="https://www.buymeacoffee.com/seyma">  <img  align="center"  src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png"  height="50"  width="210"  alt="seyma"  /></a><img src="https://github.com/Seyma44/Seyma44/assets/3766249/64d2e76f-d677-40bc-a519-096f0179ad17" width="58px" alt="connect">Support Me</p> 
 
